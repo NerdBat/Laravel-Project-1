@@ -48,3 +48,7 @@ Pour cela il suffit d'éditer les fichier .env et le fichiers database.php situe
     php artisan breeze:install --dark
 ```
 ## Maintenant on peut commencer a éditer notre code !
+
+<img   src="https://laravel.com/img/logomark.min.svg" width="150" >
+<img   src="https://imgs.search.brave.com/z_Pe1xwcs_5QAZpaCylq_fyoAYzMivpEGpyO6eo8Ji0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMDkvUEhQX2xv/Z28ucG5n" width="180" >
+<img   src="https://imgs.search.brave.com/ahUdsSMfreIjiFv1ABs3t2FuG0ZENVS-tVo1I_2CIOw/rs:fit:256:154:1/g:ce/aHR0cHM6Ly9pY29u/YXBlLmNvbS93cC1j/b250ZW50L2ZpbGVz/L2FuLzM1MTU0Ni9z/dmcvdGFpbHdpbmQt/Y3NzLXNlZWtsb2dv/LmNvbS5zdmc.svg" width="180" >
