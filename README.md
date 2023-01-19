@@ -25,3 +25,26 @@ Ce projet
 - MySQL
 - PHP
 - PhpMyAdmin
+
+### Implémenter Laravel Breeze
+
+```zsh
+    cd Projet
+    composer require laravel/breeze --dev
+```
+### Il est temps de connecter votre base de donnée a votre code
+Pour cela il suffit d'éditer les fichier .env et le fichiers database.php situer dans le sous dossier congif.
+
+### Terminer d'installer Breeze
+```zsh
+    php artisan breeze:install
+    php artisan migrate
+    npm install
+    npm run dev
+```
+### On ajoute le Dark Mode
+
+```zsh
+    php artisan breeze:install --dark
+```
+## Maintenant on peut commencer a éditer notre code !
